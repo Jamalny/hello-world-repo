@@ -1,1 +1,5 @@
+ Jamalny-patch-1
+Once upon a time in Los Angeles
+=======
 Once upon a time in New York.
+>>>>>> master
